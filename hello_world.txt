@@ -1,1 +1,2 @@
 Modifying this file!
+Resolved line 8 bug!
